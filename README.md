@@ -14,3 +14,4 @@ https://github.com/renebidart/breakHis/blob/master/notebooks/final/cnn-fine-tuni
 https://towardsdatascience.com/how-to-fight-breast-cancer-with-deep-learning-ab28e42e4250
 http://www.inf.ufpr.br/lesoliveira/download/BreaKHis_v1.tar.gz
 http://www.inf.ufpr.br/lesoliveira/download/
+http://www.inf.ufpr.br/lesoliveira/download/TeseFabioSpanhol.pdf
