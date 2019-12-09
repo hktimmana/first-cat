@@ -5,3 +5,12 @@
 
 
 firstrepo
+
+https://github.com/styluna7/Breast-Cancer-Detection
+https://data.mendeley.com/datasets/wmy84gzngw/1
+https://github.com/patelatharva/Classify_Breast_Cancer_Type_From_Image/blob/master/tumor_type_detection.ipynb
+https://github.com/AmanjotBhullar/Transfer_Learning_Image_Classification
+https://github.com/renebidart/breakHis/blob/master/notebooks/final/cnn-fine-tuning.ipynb
+https://towardsdatascience.com/how-to-fight-breast-cancer-with-deep-learning-ab28e42e4250
+http://www.inf.ufpr.br/lesoliveira/download/BreaKHis_v1.tar.gz
+http://www.inf.ufpr.br/lesoliveira/download/
