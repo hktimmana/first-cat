@@ -17,3 +17,4 @@ http://www.inf.ufpr.br/lesoliveira/download/
 http://www.inf.ufpr.br/lesoliveira/download/TeseFabioSpanhol.pdf
 https://medium.com/@14prakash/transfer-learning-using-keras-d804b2e04ef8
 #https://towardsdatascience.com/transfer-learning-with-pyspark-729d49604d45
+Multi-label/MultiClass :https://towardsdatascience.com/multi-label-image-classification-with-neural-network-keras-ddc1ab1afede
