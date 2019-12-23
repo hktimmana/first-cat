@@ -20,3 +20,5 @@ https://medium.com/@14prakash/transfer-learning-using-keras-d804b2e04ef8
 Multi-label/MultiClass :https://towardsdatascience.com/multi-label-image-classification-with-neural-network-keras-ddc1ab1afede
 Sample Thesis:https://sg.inflibnet.ac.in/handle/10603/253116
 Tranfer Learning Types:https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
+Dr Anitha Thesis: http://shodhganga.inflibnet.ac.in/jspui/bitstream/10603/170925/1/final%20cancer.pdf
+
