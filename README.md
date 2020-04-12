@@ -23,3 +23,10 @@ Tranfer Learning Types:https://towardsdatascience.com/transfer-learning-from-pre
 Dr Anitha Thesis: http://shodhganga.inflibnet.ac.in/jspui/bitstream/10603/170925/1/final%20cancer.pdf
 
 https://towardsdatascience.com/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9
+
+
+working Sample
+=============
+
+https://medium.com/learning-machine-learning/multi-class-fish-classification-from-images-with-transfer-learning-using-keras-335125637544
+https://github.com/Tahsin-Mayeesha/udacity-mlnd-deeplearning-capstone/tree/master/Notebooks
