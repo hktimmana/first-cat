@@ -30,3 +30,7 @@ working Sample
 
 https://medium.com/learning-machine-learning/multi-class-fish-classification-from-images-with-transfer-learning-using-keras-335125637544
 https://github.com/Tahsin-Mayeesha/udacity-mlnd-deeplearning-capstone/tree/master/Notebooks
+
+
+http://data.mendeley.com/datasets/wmy84gzngw/1/files/b63daee9-78de-4122-8475-9b3aa22ffd64/us-dataset.zip?dl=1
+Rodrigues, Paulo Sergio (2017), “Breast Ultrasound Image”, Mendeley Data, v1 http://dx.doi.org/10.17632/wmy84gzngw.1#file-b63daee9-78de-4122-8475-9b3aa22ffd64
